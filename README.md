@@ -1,1 +1,1 @@
-React & Next.js Dashboard Developer | Building data dashboards for SaaS startups | Ex-Nestlé (9 years) | kleandash.com
+React & Next.js dashboard developer specializing in data visualization for SaaS startups. I spent 9 years at Nestlé working with business data before writing code — so I understand what metrics actually matter. Building KleanDash from Chittagong, Bangladesh.
