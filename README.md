@@ -52,9 +52,9 @@ Next.js + Google Sheets dashboard with Claude AI integration. Sales pipeline vis
 | Product | What it solves |
 |---|---|
 | Community platforms | Full-stack apps for real orgs — auth, roles, admin panels |
-| Internal dashboards | Replaces messy spreadsheets for SaaS teams |
+| Multi-tenant SaaS apps | Multi-org architecture with RBAC, real-time, and custom business logic |
 | Blog & content sites | Fast, clean content sites for founders |
-| Data visualizations | Business metrics that actually make sense |
+| Custom auth & access control | Role-gated features built for production — not patched in later |
 
 ---
 
