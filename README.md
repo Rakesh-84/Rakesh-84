@@ -40,7 +40,9 @@ React + Recharts dashboard for SaaS business metrics. Built for founders who nee
 ### [SaasDash](https://saasdash-t7lm.vercel.app/)
 Next js + google Sheet Dashboard Sales pipeline dashboard with Claude AI integration. Surfaces insights, not just numbers.
 
-
+### NDF BD Chattogram — Community Platform
+National Debate Federation Bangladesh, Chittagong Chapter
+A full-stack community platform for a Top tier debate organization — built from scratch by React, Supabase, Hono on Cloudflare Workers, PWA. 3-session security audit. 30+ pages, 9 DB tables.
 ---
 
 ## 📬 Work With Me
