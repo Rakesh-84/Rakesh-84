@@ -4,7 +4,7 @@
 
 I spent 9 years at Nestlé working with business data before writing code — so I understand what metrics actually matter. I don't just build what you ask for. I build what you actually need.
 
-Building **[KleanDash](https://kleandash.com)** from Chittagong, Bangladesh — a solo AI-powered agency delivering clean React dashboards and web apps for SaaS founders.
+Building **[KleanDash](https://kleandash.com)** from Chittagong, Bangladesh — a solo AI-powered agency building full-stack SaaS products for founders who need more than Webflow can give them.
 
 ---
 
