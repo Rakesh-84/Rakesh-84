@@ -1,6 +1,6 @@
 # Rakesh Das (Rex)
 
-**React dashboard developer for SaaS startups | Ex-Nestlé (9 yrs) | Data first, code second**
+**Full-stack React developer for SaaS startups & real-world orgs | Ex-Nestlé (9 yrs) | Data first, code second**
 
 I spent 9 years at Nestlé working with business data before writing code — so I understand what metrics actually matter. I don't just build what you ask for. I build what you actually need.
 
@@ -13,11 +13,37 @@ Building **[KleanDash](https://kleandash.com)** from Chittagong, Bangladesh — 
 **Frontend**
 React • Next.js • TypeScript • Tailwind CSS • Shadcn/UI • Recharts
 
-**Backend & Database**
-Supabase • PostgreSQL • REST APIs
+**Backend & Infrastructure**
+Supabase • PostgreSQL • Hono • Cloudflare Workers • REST APIs
 
 **Tools & Deployment**
-Vite • React Router v6 • Vercel • Git • GitHub
+Vite • React Router v6 • Vercel • PWA • Git • GitHub
+
+---
+
+## 🚀 Projects
+
+### NDF BD Chattogram — Community Platform
+Full-stack community platform for a top-tier debate organization in Chittagong. Built solo from database design to production deployment.
+
+- React + Vite · Supabase · Hono on Cloudflare Workers · PWA
+- 30+ pages · 9 database tables · 3 storage buckets
+- Hono proxy layer — anon key never reaches the browser
+- 3-session security audit: RLS tested via direct API calls, role escalation blocked, admin spoofing tested with member JWTs
+- PWA with full icon set, service worker, installable on Android & iOS
+- AI chatbot feature in progress (Groq API, scoped to org knowledge)
+
+[View project →](https://github.com/Rakesh-84/NDF-BD-CTG)
+
+---
+
+### [BizDash](https://biz-dash-pi.vercel.app/)
+React + Recharts dashboard for SaaS business metrics. Built for founders who need clean data visibility without engineering overhead.
+
+---
+
+### [SaasDash](https://saasdash-t7lm.vercel.app/)
+Next.js + Google Sheets dashboard with Claude AI integration. Sales pipeline visibility — surfaces insights, not just numbers.
 
 ---
 
@@ -25,24 +51,11 @@ Vite • React Router v6 • Vercel • Git • GitHub
 
 | Product | What it solves |
 |---|---|
+| Community platforms | Full-stack apps for real orgs — auth, roles, admin panels |
 | Internal dashboards | Replaces messy spreadsheets for SaaS teams |
-| Blog websites | Fast, clean content sites for founders |
-| Travel websites | Booking and discovery experiences |
+| Blog & content sites | Fast, clean content sites for founders |
 | Data visualizations | Business metrics that actually make sense |
 
----
-
-## 🚀 Projects
-
-### [BizDash](https://biz-dash-pi.vercel.app/)
-React + Recharts dashboard for SaaS business metrics. Built for founders who need clean data visibility without engineering overhead.
-
-### [SaasDash](https://saasdash-t7lm.vercel.app/)
-Next js + google Sheet Dashboard Sales pipeline dashboard with Claude AI integration. Surfaces insights, not just numbers.
-
-### NDF BD Chattogram — Community Platform
-**National Debate Federation Bangladesh, Chittagong Chapter
-A full-stack community platform for a Top tier debate organization — built from scratch by React, Supabase, Hono on Cloudflare Workers, PWA. 3-session security audit. 30+ pages, 9 DB tables.**
 ---
 
 ## 📬 Work With Me
