@@ -33,7 +33,7 @@ Full-stack community platform for a top-tier debate organization in Chittagong. 
 - PWA with full icon set, service worker, installable on Android & iOS
 - AI chatbot feature in progress (Groq API, scoped to org knowledge)
 
-[View project →] (https://www.ndfbdctg.org/))
+[View project →] (https://www.ndfbdctg.org/)]
 
 ---
 
